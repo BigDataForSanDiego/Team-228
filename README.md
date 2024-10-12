@@ -1,14 +1,14 @@
 ### 2024 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `228`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Celestial Chimps`    
   
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Our team's hackathon idea in one sentence:
 ##### `YOUR ONE SENTENCE HERE`
 
 
-#### A visual
+#### A visual:
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
@@ -42,5 +42,5 @@
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members `William Widjaja(wwidjaja0), Elvin Chen (m3lvinzz), Vincent Cho (vcho116055), Jeremy Cho (jecDSC)`
 
