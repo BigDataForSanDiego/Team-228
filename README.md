@@ -5,7 +5,7 @@
 #### Team Name: `Celestial Chimps`    
   
 #### Our team's hackathon idea in one sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `We will develop a mobile app in React Native that is able to scan barcodes on foods to identify potential allergens and provide alternative products when necessary.`
 
 
 #### A visual:
