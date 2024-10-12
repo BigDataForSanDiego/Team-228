@@ -40,7 +40,7 @@
 > How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
 
-#### Team Coordinator GitHub Username: `anarahdma`
+#### Team Coordinator GitHub Username: `M3lvinzz`
 
-#### Team Members `William Widjaja(wwidjaja0), Elvin Chen (m3lvinzz), Vincent Cho (vcho116055), Jeremy Cho (jecDSC)`
+#### Team Members `William Widjaja(wwidjaja0), Elvin Chen (M3lvinzz), Vincent Cho (vcho116055), Jeremy Cho (jecDSC)`
 
