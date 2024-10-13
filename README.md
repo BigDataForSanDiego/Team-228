@@ -5,26 +5,24 @@
 #### Team Name: `Celestial Chimps`    
   
 #### Our team's hackathon idea in one sentence:
-##### `We will develop a mobile app in React Native called "Allergen Shield" that is able to scan barcodes on foods to identify potential allergens and provide alternative products when necessary.`
+##### `We will develop a mobile app in React Native called "NutriChimp" that is able to scan foods to identify potential allergens and provide alternative products when necessary, as well as help the consumer to plan their groceries.`
 
 
 #### A visual:
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
-
+![visual](https://i.ytimg.com/vi/wzVIiOrmZJ4/maxresdefault.jpg)
 <!--
-#### Theme: Enhancing Healthcareâ€™s Digital Front Door
+#### Theme: Enhancing Healthcare's Digital Front Door
 #### - Digital solutions to help increase access, manage health, and improve patient satisfaction along the healthcare journey -  
 -->
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
 - [ ] Access to care
 > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
-- [ ] Patient satisfaction
+- [ X ] Patient satisfaction
 > How can we make it more convenient for patients to provide real-time feedback about their healthcare experience through a mobile app?
 - [ ] New patient experience
 > As a potential new customer, how can we leverage the mobile app to help new patients better understand what services are available to them?
-- [ ] Managing my health
+- [ X ] Managing my health
 > It's easy to get overwhelmed by all the tasks patients often have to do to maintain their health, how can we make managing health more enjoyable?
 - [ ] Addressing mental health challenges
 > Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
