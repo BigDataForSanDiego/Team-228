@@ -37,24 +37,32 @@ const styles = StyleSheet.create({
   default: {
     fontSize: 16,
     lineHeight: 24,
+    fontFamily: 'PalanquinDark',
   },
   defaultSemiBold: {
-    fontSize: 16,
+    fontSize: 20,
     lineHeight: 24,
-    fontWeight: '600',
+    fontWeight: '500',
+    fontFamily: 'PalanquinDark',
   },
   title: {
-    fontSize: 32,
-    fontWeight: 'bold',
+    fontSize: 48,
+    fontWeight: 'regular',
     lineHeight: 32,
+    textShadowColor: 'rgba(0, 0, 0, 0.5)',
+    textShadowOffset: {width: 0, height: 4},
+    textShadowRadius: 5,
+    fontFamily: 'OrelegaOne',
   },
   subtitle: {
     fontSize: 20,
-    fontWeight: 'bold',
+    fontWeight: '400',
+    fontFamily: 'PalanquinDark',
   },
   link: {
     lineHeight: 30,
     fontSize: 16,
-    color: '#0a7ea4',
+    color: '#00ffee',
+    fontFamily: 'PalanquinDark',
   },
 });

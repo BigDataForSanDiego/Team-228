@@ -13,7 +13,9 @@ SplashScreen.preventAutoHideAsync();
 export default function RootLayout() {
   const colorScheme = useColorScheme();
   const [loaded] = useFonts({
-    SpaceMono: require('../assets/fonts/SpaceMono-Regular.ttf'),
+    OrelegaOne: require('../assets/fonts/OrelegaOne-Regular.ttf'),
+    PalanquinDark: require('../assets/fonts/PalanquinDark-Regular.ttf'),
+    OpenDyslexic: require('../assets/fonts/OpenDyslexic-Regular.otf'),
   });
 
   useEffect(() => {
